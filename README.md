@@ -4,10 +4,10 @@
 
 <h1>
 Hi, I'm Gehad Sweeney
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7B68EE&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;MEARN+Stack+Developer;AI-Powered+Web+Applications;Building+Smart+SaaS+Platforms" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&color=1E90FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;MEARN+Stack+Developer;AI-Powered+Web+Applications;Building+Smart+SaaS+Platforms" />
 
 <br><br>
 
